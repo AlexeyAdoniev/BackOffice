@@ -1,0 +1,11 @@
+{
+  "name": "y",
+  "version": "1",
+  "description": "backOffice",
+  "main": "index.js",
+  "author": "AlexeyAdoniev",
+  "license": "MIT",
+  "dependencies": {
+    "create-react-app": "^4.0.3"
+  }
+}
